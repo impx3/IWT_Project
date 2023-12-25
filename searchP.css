@@ -1,0 +1,27 @@
+
+  #searchbar{
+    width: 250px;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    margin-right: 10px;
+    margin-top: 23px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  button[type="submit"] {
+    background-color: #4285F4;
+    border: none;
+    outline: none;
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: -40px;
+    cursor: pointer;
+  }
+  
+  .fa-search {
+    color: #fff;
+  }
+  
